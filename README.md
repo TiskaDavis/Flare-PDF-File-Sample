@@ -1,4 +1,4 @@
-# Calendar Application User Guide - PDF Version
+# User Guide for Calendar Application - PDF Version
 
 This repository contains the user guide for the Calendar Application, created using MadCap Flare. The PDF provides comprehensive instructions to help users understand how to effectively use the Calendar Application's features.
 
